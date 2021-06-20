@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/create-context-todo/static/css/main.d6d4d1a9.chunk.css",
+    "main.js": "/create-context-todo/static/js/main.4b852f60.chunk.js",
+    "main.js.map": "/create-context-todo/static/js/main.4b852f60.chunk.js.map",
+    "runtime-main.js": "/create-context-todo/static/js/runtime-main.19d0e79b.js",
+    "runtime-main.js.map": "/create-context-todo/static/js/runtime-main.19d0e79b.js.map",
+    "static/js/2.86d8493d.chunk.js": "/create-context-todo/static/js/2.86d8493d.chunk.js",
+    "static/js/2.86d8493d.chunk.js.map": "/create-context-todo/static/js/2.86d8493d.chunk.js.map",
+    "index.html": "/create-context-todo/index.html",
+    "static/css/main.d6d4d1a9.chunk.css.map": "/create-context-todo/static/css/main.d6d4d1a9.chunk.css.map",
+    "static/js/2.86d8493d.chunk.js.LICENSE.txt": "/create-context-todo/static/js/2.86d8493d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.19d0e79b.js",
+    "static/js/2.86d8493d.chunk.js",
+    "static/css/main.d6d4d1a9.chunk.css",
+    "static/js/main.4b852f60.chunk.js"
+  ]
+}
